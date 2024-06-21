@@ -45,7 +45,7 @@ cp frps /usr/local/bin
 frps -p 6000 --dashboard-port 6600 --vhost-http-port 6080 --vhost-https-port 6443
 ```
 
-说明：服务端口=7000，管理后台端口=6600，http代理端口=6080
+说明：服务端口=6000，管理后台端口=6600，http代理端口=6080
 
 
 
