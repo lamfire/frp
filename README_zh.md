@@ -179,7 +179,3 @@ systemctl daemon-reload
 systemctl enable frpc
 systemctl start frpc
 ```
-
-
-
-![zsxq](/doc/pic/zsxq.jpg)
